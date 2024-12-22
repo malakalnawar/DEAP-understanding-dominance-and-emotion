@@ -37,7 +37,7 @@ Exploratory Data Analysis
 
 ### Download the data
 
-The data is too large to be uploaded on Github, please download the contents of the folder `data_preprocessed_python` form [Kaggle](https://www.kaggle.com/datasets/manh123df/deap-dataset/data).
+The EEG/Peripheral data is too large to be uploaded to Github, please download the the folder `data_preprocessed_python` from [Kaggle](https://www.kaggle.com/datasets/manh123df/deap-dataset/data) and add it to the `data` folder.
 
 The song `Queen - I Want To Break Free.wav` has been compressed to be uploaded here. For deeper analysis of the audio please download the original.
 
