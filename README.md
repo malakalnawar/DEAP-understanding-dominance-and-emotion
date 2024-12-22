@@ -1,4 +1,4 @@
-# Exploring Dominance and Emotion in Dimensions Using the DEAP Dataset
+# Understanding Dominance and Emotion Using the DEAP Dataset
 
 ## Overview
 
