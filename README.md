@@ -6,6 +6,8 @@ This project investigates the relationship between dominance, as a dimension of 
 
 Conducted as part of the Data Science Club at Pasadena City College (PCC).
 
+##### Note: Download `DEAP-understanding-dominance-and-emotion.pdf` to read the complete notebook
+
 ## Project Highlights
 
 ### Self-Assessment Analysis
@@ -32,8 +34,6 @@ We analyzed participant responses (self-assessment and peripheral physiological 
 Exploratory Data Analysis
 
 ## How to Run
-
-###### Note: open the PDF for a quick read of the notebook
 
 ### Download the data
 
